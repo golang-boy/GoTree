@@ -27,7 +27,7 @@ GoTree is on beta. Pull Requests [are welcome](https://github.com/DiSiqueira/GoT
 ### Go Get
 
 ```bash
-$ go get github.com/disiqueira/gotree
+$ go get https://github.com/golang-boy/GoTree
 ```
 
 ## Usage
